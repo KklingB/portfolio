@@ -4,11 +4,15 @@
     --cor-secundaria: $black;
     --cor-destaque: $indigo;}
 body {
-    font-family: 'Chakra Petch', sans-serif;}
+    font-family: 'Chakra Petch', sans-serif;
+    color: var(--cor-principal)}
+.lead {
+    color: var(--cor-destaque);
+    font-weight: 700;}
 h1, h2, h5 {
     color: var(--cor-secundaria);
     font-weight: 700;}
-footer a {
+a {
     color: var(--cor-principal)}
-footer a:hover {
+a:hover {
     color: var(--cor-destaque);}
