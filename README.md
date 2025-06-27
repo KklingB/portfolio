@@ -1,1 +1,1 @@
-https://github.com/KklingB/portfolio.git
+https://kklingb.github.io/portfolio/
