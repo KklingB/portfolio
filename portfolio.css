@@ -2,7 +2,7 @@
 :root {
     --cor-principal: rgb(64, 64, 64);
     --cor-secundaria: black;
-    --cor-destaque: indigo;}
+    --cor-destaque: rgb(100, 0, 255);}
 body {
     font-family: 'Chakra Petch', sans-serif;
     color: var(--cor-principal)}
