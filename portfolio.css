@@ -25,3 +25,7 @@ a:hover {
     color:var(--cor-destaque);
     object-fit: cover;
     border: 3px solid;}
+@media (max-width: 800px) {
+    .container {
+        margin: 10px;
+        width: 95%;}}
