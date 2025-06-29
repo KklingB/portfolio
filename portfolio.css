@@ -25,7 +25,11 @@ a:hover {
     color:var(--cor-destaque);
     object-fit: cover;
     border: 3px solid;}
-@media (max-width: 800px) {
+.paragrafo {
+    width: 500px;}
+@media (max-width: 600px) {
     .container {
         margin: 10px;
-        width: 95%;}}
+        width: 95%;}
+    .paragrafo {
+        width: 300px;}}
