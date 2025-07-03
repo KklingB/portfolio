@@ -26,10 +26,14 @@ a:hover {
     object-fit: cover;
     border: 3px solid;}
 .paragrafo {
-       margin: 10px;}
+    margin: 10px;}
+.container {
+    margin: 10px;}
 @media (min-width: 700px) {
     .paragrafo {
         margin: 20px;
         width: 500px;}
+    .container {
+        margin: 20px;}
 }
 
