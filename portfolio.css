@@ -5,15 +5,15 @@
     --cor-destaque: rgb(100, 0, 255);}
 body {
     font-family: 'Chakra Petch', sans-serif;
-    color: var(--cor-principal)}
+    color: var(--cor-principal);}
 .lead {
     color: var(--cor-destaque);
     font-weight: 700;}
-h1, h2, h5 {
+h1, h2, h3, h4, h5, h6 { 
     color: var(--cor-secundaria);
     font-weight: 700;}
 a {
-    color: var(--cor-principal)}
+    color: var(--cor-principal);}
 a:hover {
     color: var(--cor-destaque);}
 .circulo-container {
@@ -32,4 +32,3 @@ a:hover {
         margin: 20px;
         width: 500px;}
 }
-
