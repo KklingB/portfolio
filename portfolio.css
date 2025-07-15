@@ -25,9 +25,13 @@ a:hover {
     color:var(--cor-destaque);
     object-fit: cover;
     border: 3px solid;}
+.custom-overlay {
+  position: center;
+  top: 2%;
+  color:var(--cor-destaque);}
 .paragrafo {
     margin: 10px;}
-@media (min-width: 700px) {
+@media (min-width: 768px) {
     .paragrafo {
         margin: 20px;
         width: 500px;}
